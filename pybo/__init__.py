@@ -20,8 +20,11 @@ def create_app():
     from . import models
 
     # 블루프린트
-    from .views import main_views
+    from .views import main_views, question_views, answer_views
     app.register_blueprint(main_views.bp)
+    app.register_blueprint(question_views.bp)
+    app.register_blueprint(answer_views.bp)
+
 
     # @app.route('/')  # url 매핑해 다음줄 함수 실행
     # def hello_pybo():
