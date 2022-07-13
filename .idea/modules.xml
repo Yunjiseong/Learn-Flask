@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Coding-Test-Archive/.idea/Coding-Test-Archive.iml" filepath="$PROJECT_DIR$/../Coding-Test-Archive/.idea/Coding-Test-Archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/apt/.idea/apt.iml" filepath="$PROJECT_DIR$/../pythonProject1/apt/.idea/apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Crawler/.idea/crawler.iml" filepath="$PROJECT_DIR$/../Crawler/.idea/crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../foss/.idea/foss.iml" filepath="$PROJECT_DIR$/../foss/.idea/foss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/krx/.idea/krx.iml" filepath="$PROJECT_DIR$/../pythonProject1/krx/.idea/krx.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/.idea/pythonProject2.iml" />
     </modules>
   </component>
