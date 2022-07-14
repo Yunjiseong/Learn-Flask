@@ -25,6 +25,10 @@ def create_app():
     app.register_blueprint(question_views.bp)
     app.register_blueprint(answer_views.bp)
 
+    # 필터
+    from .filter import format_datetime
+    app.jinja_env.filters['datetime'] = format_datetime
+
 
     # @app.route('/')  # url 매핑해 다음줄 함수 실행
     # def hello_pybo():
