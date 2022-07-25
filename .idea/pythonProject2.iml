@@ -4,11 +4,13 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (learnFlask)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Coding-Test-Archive" />
-    <orderEntry type="module" module-name="apt" />
-    <orderEntry type="module" module-name="foss" />
-    <orderEntry type="module" module-name="krx" />
+    <orderEntry type="module" module-name="airflow-dags" />
+    <orderEntry type="module" module-name="coin" />
     <orderEntry type="module" module-name="crawler" />
+    <orderEntry type="module" module-name="Coding-Test-Archive" />
+    <orderEntry type="module" module-name="user" />
+    <orderEntry type="module" module-name="apt" />
   </component>
 </module>
