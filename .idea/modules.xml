@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Assetplus/.idea/Assetplus.iml" filepath="$PROJECT_DIR$/../Assetplus/.idea/Assetplus.iml" />
       <module fileurl="file://$PROJECT_DIR$/../CodingTestArchive/.idea/Coding-Test-Archive.iml" filepath="$PROJECT_DIR$/../CodingTestArchive/.idea/Coding-Test-Archive.iml" />
       <module fileurl="file://$PROJECT_DIR$/../airflow-dags/.idea/airflow-dags.iml" filepath="$PROJECT_DIR$/../airflow-dags/.idea/airflow-dags.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject1/apt/.idea/apt.iml" filepath="$PROJECT_DIR$/../pythonProject1/apt/.idea/apt.iml" />
       <module fileurl="file://$PROJECT_DIR$/../coin/.idea/coin.iml" filepath="$PROJECT_DIR$/../coin/.idea/coin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Crawler/.idea/crawler.iml" filepath="$PROJECT_DIR$/../Crawler/.idea/crawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/.idea/pythonProject2.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/GitHub/user/.idea/user.iml" filepath="$USER_HOME$/Documents/GitHub/user/.idea/user.iml" />
     </modules>
   </component>
 </project>

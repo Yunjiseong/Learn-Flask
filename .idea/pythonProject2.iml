@@ -10,7 +10,7 @@
     <orderEntry type="module" module-name="coin" />
     <orderEntry type="module" module-name="crawler" />
     <orderEntry type="module" module-name="Coding-Test-Archive" />
-    <orderEntry type="module" module-name="user" />
     <orderEntry type="module" module-name="apt" />
+    <orderEntry type="module" module-name="Assetplus" />
   </component>
 </module>
